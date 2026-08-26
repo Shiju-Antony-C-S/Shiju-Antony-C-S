@@ -10,7 +10,7 @@
 
 ## 🛠️ Tech Stack
 - Frappe / ERPNext
-- Python, JavaScript
+- Python, Java, JavaScript
 - HTML, CSS
 
 ## 📫 Reach me

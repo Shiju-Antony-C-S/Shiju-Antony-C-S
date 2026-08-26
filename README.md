@@ -48,7 +48,7 @@ Self-driven and detail-oriented ERPNext Technical Consultant with hands-on exper
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiju-Antony-C-S&theme=github-dark-blue&background=0D1117&hide_border=true" alt="Shiju's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiju-Antony-C-S&theme=dark&background=0D1117&hide_border=true" alt="Shiju's GitHub streak" />
 </p>
 
 ## 📫 Reach me

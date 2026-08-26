@@ -44,7 +44,7 @@ Self-driven and detail-oriented ERPNext Technical Consultant with hands-on exper
 
 ## 📊 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Shiju-Antony-C-S&show_icons=true&theme=default" alt="Shiju's GitHub stats" />
+  <img src="https://github-readme-stats-omega-red.vercel.app/api?username=Shiju-Antony-C-S&show_icons=true&theme=default" alt="Shiju's GitHub stats" />
 </p>
 
 <p>

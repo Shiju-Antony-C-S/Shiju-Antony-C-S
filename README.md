@@ -10,7 +10,12 @@
 
 ## 🛠️ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,java,php,js,html,css,tailwind,git,github" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Frappe-0089FF?style=for-the-badge&logo=frappe&logoColor=white" alt="Frappe" />
+  <img src="https://img.shields.io/badge/ERPNext-0089FF?style=for-the-badge&logo=frappe&logoColor=white" alt="ERPNext" />
 </p>
 
 ## 📊 GitHub Stats

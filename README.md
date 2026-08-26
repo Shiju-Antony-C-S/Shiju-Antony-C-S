@@ -54,7 +54,7 @@ Self-driven and detail-oriented ERPNext Technical Consultant with hands-on exper
 ## 📫 Reach me
 - 📧 cshijuantony@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/shiju-antony-c-s/)
-- 🌐 [Portfolio](https://shijuantony-c-s.github.io)
+- 🌐 [Portfolio](https://shiju-antony-c-s.github.io/)
 - 🐙 [GitHub](https://github.com/Shiju-Antony-C-S)
 
 <p>
